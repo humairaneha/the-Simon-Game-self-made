@@ -24,7 +24,7 @@ function nextSequence(){
     }
 
     });
- var level=0;
+ 
     $(document).click(function(){
       if(level===0)
     {  nextSequence();
