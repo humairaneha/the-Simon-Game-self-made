@@ -59,4 +59,8 @@ text-align: center;
     .container{
  width:100%;
     margin: 35% auto 0;
+  }
+  .red,.blue,.green,.yellow{
+  height: 300px;
+    width:300px;}
 }
